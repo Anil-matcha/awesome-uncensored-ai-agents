@@ -11,7 +11,9 @@ A practical guide to connecting tool-capable, low-refusal language models to gen
 - [awesome-openclaw](https://github.com/Anil-matcha/awesome-openclaw) — general OpenClaw resources, skills, and integrations.
 - [awesome-hermes-agent](https://github.com/Anil-matcha/awesome-hermes-agent) — general Hermes Agent skills, plugins, and integrations.
 - [Muapi Abliterated LLM API](https://muapi.ai/abliterated-llm-api) — hosted text models and current tool-capability information.
-- [Muapi agent guides](https://muapi.ai/docs/agents) — setup and protocol documentation.
+- [OpenClaw with Muapi](https://muapi.ai/docs/openclaw) — custom provider setup.
+- [Hermes Agent with Muapi](https://muapi.ai/docs/hermes-agent) — custom endpoint setup.
+- [Muapi access keys](https://muapi.ai/access-keys) — create and manage API keys.
 - [Muapi dashboard](https://muapi.ai/dashboard) — create API keys and review usage.
 - [Muapi](https://muapi.ai) — hosted model APIs.
 
